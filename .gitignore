@@ -1,0 +1,9 @@
+.idea/
+build/
+dist/
+node_modules/
+out/
+
+*.iml
+*.ipr
+*.iws
